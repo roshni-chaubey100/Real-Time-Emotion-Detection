@@ -40,3 +40,8 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt "MIT LICENSE") file for details.
+
+##  
+For more detailed information, refer to the project report and presentation included in the repository.  
+[Project Report (PDF)](Project%20Report%20(Real-Time-Emotion-Detection).pdf)  
+[Project Presentation (PPTX)](Real%20Time%20Emotion%20Detection.pptx)
