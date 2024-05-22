@@ -20,7 +20,8 @@ python emotionDetection.py
 ```
 > **NOTE:**  
 > Before running the `emotionDetection.py`, You must have the `emotion_detector_model.h5` file.  
-> To generate the file, You have to run the `trainDataset.py` script.  
+> To generate the file, You have to run the `trainDataset.py` script. 'OR'
+> Download the [model](emotion_detector_model.h5) with 61% accuracy.
 2. The webcam will activate, and the system will start detecting and displaying emotions in real-time.
 3. Press 'q' to quit the application.
 
