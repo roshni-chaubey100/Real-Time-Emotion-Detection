@@ -5,7 +5,7 @@ The emotion labels are therefore mapped to the traits and micro-traits randomly,
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sristita2023/Real-Time-Emotion-Detection.git
+git clone https://github.com/roshni-chaubey100/Real-Time-Emotion-Detection.git
 cd Real-Time-Emotion-Detection
 ```
 2. Install the required packages:
